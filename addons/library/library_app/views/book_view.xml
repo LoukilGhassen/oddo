@@ -14,8 +14,7 @@
           <group name="group_left">
         <field name="name" />
         <field name="author_ids" widget="many2many_tags" />
-        <fiename="group_right">ld name="publisher_id" />
-        <field name="date_published" />
+        <field name="publisher_id" />        <field name="date_published" />
           </group>
           <group name="group_right">
         <field name="isbn" />
