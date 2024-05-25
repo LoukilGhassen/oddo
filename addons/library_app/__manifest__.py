@@ -1,5 +1,5 @@
 {
-    "name": "Library Management",
+    "name": "library_app",
     "summary": "Manage library catalog and book lending.",
     "author": "Daniel Reis",
     "license": "AGPL-3",
